@@ -1,9 +1,0 @@
-Prompt for the key (integer) in the command line argument
-  While the key is not a positive interger
-  Keep asking for the key
-prompt for plaintext (string)
-Convert each char to int
-  If it is uppercase, add key and keep case
-  If it is lowercase, add key and keep case
-  If it is niether, print as is
-Print out the ciphertext
